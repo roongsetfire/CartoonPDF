@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "187360779130",
+    "project_id": "roongcartoon",
+    "storage_bucket": "roongcartoon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187360779130:android:20cc6bf55e96f373de54c3",
+        "android_client_info": {
+          "package_name": "com.example.roongpdf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "187360779130-g6t8o7qkg29k6u09rc5t2rj281nci3jp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsXHoQN2OQ5d-4t3V3XrBmWcuDGInH56g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "187360779130-g6t8o7qkg29k6u09rc5t2rj281nci3jp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
